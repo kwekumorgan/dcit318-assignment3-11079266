@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task5\obj\Debug\net9.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task5\obj\Debug\net9.0\Task5.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task5\obj\Debug\net9.0\Task5.AssemblyInfo.cs
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task5\obj\Debug\net9.0\Task5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task5\obj\Debug\net9.0\Task5.sourcelink.json
