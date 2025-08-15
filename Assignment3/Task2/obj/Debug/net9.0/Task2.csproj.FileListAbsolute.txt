@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.dll.config
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.deps.json
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.dll
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\bin\Debug\net9.0\Task2.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.dll
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\refint\Task2.dll
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task2\obj\Debug\net9.0\ref\Task2.dll
