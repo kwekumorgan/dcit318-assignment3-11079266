@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\bin\Debug\Task3.exe.config
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\bin\Debug\Task3.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\bin\Debug\Task3.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\obj\Debug\Task3.exe
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\obj\Debug\Task3.pdb
+C:\Users\USER\Desktop\CS-STAT courses\DCITs\DCIT 318- Programming II\dcit318-assignment3-11079266\Assignment3\Task3\obj\Debug\Task3.exe.config
