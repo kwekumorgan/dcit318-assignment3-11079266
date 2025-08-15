@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cXvNbI86w6U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\CS-STAT courses\\DCITs\\DCIT 318- Programming II\\dcit318-assignment3-11079266\\Assignment3\\Task4\\Task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
